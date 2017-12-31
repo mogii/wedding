@@ -945,6 +945,7 @@ blockquote {
     }
     h1.large {
         font-size: 80px;
+        font-weight: 300;
     }
     .story-row {
         margin-top: 60px !important;
@@ -1040,7 +1041,8 @@ blockquote {
         margin-left: 30px;
     }
     h1.large {
-        font-size: 55px;
+        font-size: 50px;
+        font-weight: 300;
     }
     .story-row {
         margin-top: 60px !important;
